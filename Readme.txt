@@ -14,4 +14,4 @@ UI/UX Development
     When you discovered how your users behave, you’ll learn to prepare the dish by sketching and creating wireframe for web and apps.
     To complete the course, you’ll learn to create lo-fi and hi-fi prototype using Sketch.
 
-Mungkin ini perubahan kecil
+Mungkin ini perubahan kecil, mungkin saja akan berguna
